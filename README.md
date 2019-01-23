@@ -6,7 +6,7 @@
 **movie/**
 ​    ├─────images                            
 
-​    │               └ *.jpg                            
+​    │       └ *.jpg                            
 
 ​    │                                                       
 
@@ -37,7 +37,7 @@
 
 **app.py**      : 
 
-- #===을 구분으로 1번 : boxoffice.csv    2번 : movie.csv   3번 : movie_naver.csv  4번 : 이미지 저장
+- #===을 구분으로 1번 : boxoffice.csv //  2번 : movie.csv //  3번 : movie_naver.csv //  4번 : 이미지 저장
 
 
 
